@@ -11,7 +11,7 @@ This end-to-end CRM Sales Performance Analysis project transforms raw sales pipe
 ---
 
 ## Interactive Demonstration
-![Dashboard Interactivity Demo](dashboard_demo.gif)
+<video src="dashboard_demo.mp4" controls width="100%"></video>
 
 ---
 
@@ -29,4 +29,4 @@ The key metrics were calculated using the following DAX expressions:
 
 * **Total Revenue:**
   ```dax
-  Total Revenue = SUM(crm_sales_master[close_value])
+  Total Revenue = SUM(cleaned_crm_sales_master[close_value])
