@@ -11,7 +11,7 @@ This end-to-end CRM Sales Performance Analysis project transforms raw sales pipe
 ---
 
 ## Interactive Demonstration
-[🎬 Click here to watch the 35-second Interactive Dashboard Demo](dashboard_demo.mp4)
+![Dashboard Interactivity Demo](dashboard_demo.gif)
 
 ---
 
